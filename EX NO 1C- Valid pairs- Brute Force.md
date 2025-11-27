@@ -1,6 +1,6 @@
 # **EX 1C Valid Pairs using Brute Force Approach**
 
-## **DATE: 23-08-2025**
+## **DATE: 09-08-2025**
 
 ## **AIM:**
 
