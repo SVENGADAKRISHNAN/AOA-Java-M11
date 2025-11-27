@@ -1,6 +1,6 @@
 # **EX 1E Integer Multiplication using Divide and Conquer Approach (Strassen’s Algorithm)**
 
-## **DATE: 01-09-2025**
+## **DATE: 09-08-2025**
 
 ## **AIM:**
 
