@@ -24,8 +24,8 @@ To write a Java program that counts the number of valid pairs (i, j) such that *
 ```java
 /*
 Program to count valid pairs using Brute Force Approach
-Developed by: VENKATANATHAN P R 
-Register Number: 212223240173
+Developed by: S.VENGADA KRISHNAN 
+Register Number: 212223110061
 */
 import java.util.Scanner;
 
